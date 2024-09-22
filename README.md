@@ -9,7 +9,7 @@
 
 🌱 Atualmente, fazendo Pós Graduação em Data Science and Machine Learning na XP Educação;
 
-📈 ⚙️Sou formada em Administração pela Universidade do Estado da Bahia (UNEB);
+📈 ⚙️Formada em Administração pela Universidade do Estado da Bahia (UNEB);
 
 📚 Entusiasta da tecnologia, adoro estudar, sou apaixonada por livros, viciada em aprender coisas novas e movida a desafios.
 
