@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&pause=1000&color=AE82CF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-### Olá! Me chamo Michele Farias 👋
+### Olá! Eu sou a Michele Farias 👋
 
  Compartilho alguns dos códigos criados e as aventuras na programação!
 
