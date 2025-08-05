@@ -7,7 +7,7 @@
 
 👩🏻‍💻 Sou Analista de Dados, certificada pela Google e WomakersCode;
 
-🌱 Atualmente, fazendo Pós Graduação em Data Science and Machine Learning na XP Educação;
+🌱 Pós Graduação em Data Science and Machine Learning na XP Educação;
 
 📈 ⚙️Formação em Administração pela Universidade do Estado da Bahia (UNEB);
 
