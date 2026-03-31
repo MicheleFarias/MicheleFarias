@@ -36,6 +36,6 @@
 </div><br/>
 
 ##
-Tenho investido intensamente em estudos e no aprimoramento das minhas habilidades em Data Analytics, complementando minha trajetória com certificações e projetos, que vão até a criação de modelos preditivos, incluindo o desenvolvimento de uma IA para prever infecções uterinas em pets.
+Transformando dados em insights para tomada de decisão
 
 	
